@@ -3,3 +3,14 @@ Themas em Boostraap Free
 
 https://getbootstrap.com/
 Documentação Boostraap
+
+herança em boostraap:
+ex
+.row [class^=col-], .row .col {
+   width: 300px;
+  height: 300px;
+  margin: 10px;
+    background-color: pink;
+  
+  
+  }
